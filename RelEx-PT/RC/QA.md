@@ -1,4 +1,4 @@
-## QA Prompt Template (Custom Dataset)
+## QA Prompt Template (RelEx-PT Dataset)
 
 ### Portuguese (original)
 
@@ -8,6 +8,7 @@ Frase:
 "{frase}"
 
 Opções:
+
 - A. "{sujeito}" aborda o tema de "{objeto}"
 - B. "{sujeito}" pertence à categoria taxonómica "{objeto}"
 - C. "{sujeito}" pertence ao género "{objeto}"
@@ -38,6 +39,7 @@ Sentence:
 "{sentence}"
 
 Options:
+
 - A. "{subject}" addresses the topic of "{object}"
 - B. "{subject}" belongs to the taxonomic category "{object}"
 - C. "{subject}" belongs to the genre "{object}"
